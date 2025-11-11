@@ -1,0 +1,7 @@
+{
+  "name": "Chillow",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
